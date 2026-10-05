@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+pandas
+openpyxl
+numpy
+paddlepaddle
+paddleocr
+img2table
+doctr[torch]
+python-dotenv
+tqdm
